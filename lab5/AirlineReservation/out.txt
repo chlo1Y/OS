@@ -1,0 +1,38 @@
+Customer 3 Purchase Receipt
+
+coach Seats -- 2:
+
+	Seat - 9B
+	Seat - 4C
+______________________________
+Customer 2 Purchase Receipt
+
+coach Seats -- 2:
+
+	Seat - 3B
+	Seat - 6C
+______________________________
+Customer 4 Purchase Receipt
+
+coach Seats -- 2:
+
+	Seat - 8C
+	Seat - 7C
+______________________________
+Customer 1 Purchase Receipt
+
+coach Seats -- 2:
+
+	Seat - 6B
+	Seat - 11A
+______________________________
+Customer 0 Purchase Receipt
+
+coach Seats -- 5:
+
+	Seat - 12B
+	Seat - 4B
+	Seat - 7A
+	Seat - 12C
+	Seat - 4A
+______________________________

@@ -1,0 +1,16 @@
+This program takes 1 arguement. With ./executableName and an 
+userName. Example: ./sig chloegoodeating
+
+1. void ouchQuit (int sig)
+    This function can terminate the program by typing 
+    "ctrl-c" in the terminal
+2. void makeAlarm(int sig)
+    This function creats an alarm sound "Ding" every 5 seconds
+3. void list(int sig)
+    This function will return a list of all current process with
+    their PID numbers by typing "ctrl-\" in the terminal
+4. void killP(int sig)
+    This function can kill processes with specific PIDs. It can be 
+    used with the list function. Open another terminal, and type 
+    "kill -USR1 PID#(of sig)" to trigger the user prompt in the main terminal. 
+    Then in the main terminal, simply enter a pid number to kill.

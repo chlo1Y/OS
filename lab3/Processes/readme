@@ -1,0 +1,4 @@
+Frist compile the processes.c file by typing >>make processes
+Then compile the myCopy.c file by typing >>make myCopy
+Let's say the number of child is 5 (n), and the sleep time is 100000(x)
+Then do >> ./processes 5 100000 Files.txt to see the result

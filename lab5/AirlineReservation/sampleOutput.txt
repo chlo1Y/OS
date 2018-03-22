@@ -1,0 +1,132 @@
+Customer 16 Purchase Receipt
+
+Coach Seats -- 1:
+
+	Seat - 4A
+______________________________
+Customer 7 Purchase Receipt
+
+Coach Seats -- 2:
+
+	Seat - 2C
+	Seat - 2A
+______________________________
+Customer 3 Purchase Receipt
+
+Coach Seats -- 1:
+
+	Seat - 11B
+______________________________
+Customer 6 Purchase Receipt
+
+First Class Seats -- 1:
+
+	Seat - 1B
+______________________________
+Customer 13 Purchase Receipt
+
+Coach Seats -- 1:
+
+	Seat - 7B
+______________________________
+Customer 17 Purchase Receipt
+
+Coach Seats -- 1:
+
+	Seat - 10B
+______________________________
+Customer 11 Purchase Receipt
+
+Coach Seats -- 1:
+
+	Seat - 5C
+______________________________
+Customer 19 Purchase Receipt
+
+First Class Seats -- 1:
+
+	Seat - 1A
+______________________________
+Customer 18 Purchase Receipt
+
+Coach Seats -- 1:
+
+	Seat - 2B
+______________________________
+Customer 10 Purchase Receipt
+
+Coach Seats -- 1:
+
+	Seat - 11C
+______________________________
+Customer 1 Purchase Receipt
+
+Coach Seats -- 1:
+
+	Seat - 6B
+______________________________
+Customer 4 Purchase Receipt
+
+Coach Seats -- 1:
+
+	Seat - 8A
+______________________________
+Customer 5 Purchase Receipt
+
+Coach Seats -- 2:
+
+	Seat - 5B
+	Seat - 10C
+______________________________
+Customer 0 Purchase Receipt
+
+Coach Seats -- 1:
+
+	Seat - 9B
+______________________________
+Customer 15 Purchase Receipt
+
+Coach Seats -- 2:
+
+	Seat - 4B
+	Seat - 5A
+______________________________
+Customer 12 Purchase Receipt
+
+Coach Seats -- 3:
+
+	Seat - 7C
+	Seat - 11A
+	Seat - 4C
+______________________________
+Customer 14 Purchase Receipt
+
+Coach Seats -- 2:
+
+	Seat - 3C
+	Seat - 7A
+______________________________
+Customer 8 Purchase Receipt
+
+Coach Seats -- 2:
+
+	Seat - 8C
+	Seat - 3A
+______________________________
+Customer 9 Purchase Receipt
+
+Coach Seats -- 4:
+
+	Seat - 6C
+	Seat - 9C
+	Seat - 6A
+	Seat - 8B
+______________________________
+Customer 2 Purchase Receipt
+
+Coach Seats -- 3:
+
+	Seat - 9A
+	Seat - 10A
+	Seat - 3B
+______________________________

@@ -1,0 +1,16 @@
+when n= 10
+Brute Force Time: min: 17483 us, max: 30678 us, mean: 24587 us
+Bubble Sort Time: min: 36820 us, max: 43562 us, mean: 39538 us 
+Merge Sort Time: min: 51 us, max: 324 us, mean: 133 us
+
+when n =20
+Brute Force Time: min: 12622 us, max: 33226 us, mean: 23846 us
+Bubble Sort Time: min: 1216 us, max: 29884 us, mean: 18232 us 
+Merge Sort Time: min: 11687 us, max: 12513 us, mean: 12265 us
+
+
+When n=5
+Brute Force Time: min: 77766 us, max: 77766 us, mean: 77766 us
+Bubble Sort Time: min: 88112 us, max: 89965 us, mean: 89038 us 
+Merge Sort Time: min: 17 us, max: 308 us, mean: 162 us
+

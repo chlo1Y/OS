@@ -1,0 +1,19 @@
+Enter your written solution to exercise 4.18 in this file.
+Be sure to include your name and section number in this document.
+Zesun Yang Dec 12 2017
+
+1.Since the scheduler only maps kerbal level threads to proessors, but 
+    not user level, if the number of kernel thread is less than the number of 
+    processing cores, then it means some processors will be unused. 
+
+2.If the number of kernel threads allocated to the program is qual to 
+    the number of processing cores, it means all processors should be
+    busy. If one thread is blocked, the processor will stop working as
+    well since there is no extra knrnel threads.
+
+3.If the number of kernel threads allocated to the program is greater
+    than the number of processing cores, but less than the number of 
+    user-level threads, all processors will be busy running kernel 
+    threads. If one knrner threads is blocked, the processor will not
+    be unused. It will find some other kernel thread to run. User-level
+    threads have no influence on this work schedule.
